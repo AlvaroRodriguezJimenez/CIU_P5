@@ -19,5 +19,5 @@ Autor: Álvaro Rubén Rodríguez Jiménez
 
 <p><b>Uso de la app</b></p>
 <p align="center">
-  <img width="500" height="900" src="https://user-images.githubusercontent.com/72138269/159091085-14d7b77f-1ce6-41ca-b981-0016a0b26063.gif">
+  <img width="500" height="800" src="https://user-images.githubusercontent.com/72138269/159091085-14d7b77f-1ce6-41ca-b981-0016a0b26063.gif">
 </p>
